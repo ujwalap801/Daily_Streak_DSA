@@ -7,3 +7,5 @@
 ## [F_15](https://leetcode.com/problems/reverse-bits/?envType=daily-question&envId=2026-02-16)
 
 ## [F_16](https://leetcode.com/problems/add-binary/description/?envType=daily-question&envId=2026-02-15)
+
+## [F_17_Binary](https://leetcode.com/problems/binary-number-with-alternating-bits/?envType=daily-question&envId=2026-02-18)
