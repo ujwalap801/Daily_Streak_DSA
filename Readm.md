@@ -9,3 +9,5 @@
 ## [F_16](https://leetcode.com/problems/add-binary/description/?envType=daily-question&envId=2026-02-15)
 
 ## [F_17_Binary](https://leetcode.com/problems/binary-number-with-alternating-bits/?envType=daily-question&envId=2026-02-18)
+
+## [F_18_Binary](https://leetcode.com/problems/count-binary-substrings/?envType=daily-question&envId=2026-02-19)
