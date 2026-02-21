@@ -11,3 +11,6 @@
 ## [F_17_Binary](https://leetcode.com/problems/binary-number-with-alternating-bits/?envType=daily-question&envId=2026-02-18)
 
 ## [F_18_Binary](https://leetcode.com/problems/count-binary-substrings/?envType=daily-question&envId=2026-02-19)
+
+
+## [F_19_Binary](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=daily-question&envId=2026-02-21)
