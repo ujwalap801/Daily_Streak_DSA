@@ -14,3 +14,5 @@
 
 
 ## [F_19_Binary](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=daily-question&envId=2026-02-21)
+
+## [F_20_Binary](https://leetcode.com/problems/binary-gap/?envType=daily-question&envId=2026-02-22)
