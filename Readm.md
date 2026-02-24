@@ -16,3 +16,7 @@
 ## [F_19_Binary](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=daily-question&envId=2026-02-21)
 
 ## [F_20_Binary](https://leetcode.com/problems/binary-gap/?envType=daily-question&envId=2026-02-22)
+
+## [F_21_Binary](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/?envType=daily-question&envId=2026-02-23)
+
+## [F_22_Binary](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/?envType=daily-question&envId=2026-02-24)
